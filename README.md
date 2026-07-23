@@ -116,3 +116,15 @@ GitHub: https://github.com/salihalammari
 ![LeetCode](https://img.shields.io/badge/LeetCode-DSA-orange)
 ![GitHub last commit](https://img.shields.io/github/last-commit/salihalammari/leetcode-solutions)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/salihalammari/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/salihalammari/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+<!---LeetCode Topics End-->
